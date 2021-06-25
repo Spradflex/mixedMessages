@@ -1,15 +1,16 @@
 # Mixed Messages
 ======
 
-##Project 
+## Project 
 ===
 Design a random message generator that pulls from a pool of quotes, mental and physical wellness tips. Has a simple web front end with clickable button. 
 
-###Technologies
+### Technologies
 ===
 1. JavaScript
 2. HTML
 3. CSS
 
-###Sources
+### Sources
+===
 https://www.codecademy.com/
